@@ -137,7 +137,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/N/Software/GEECS/Temp/ZeroMQ</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{7BC58F3B-A81B-4CF5-AFC6-C0661953FFF0}</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">4</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">ZeroMQsubscriberExample.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/N/Software/GEECS/Temp/ZeroMQ/ZeroMQsubscriberExample.exe</Property>
