@@ -72,6 +72,7 @@
 			<Item Name="zmq_zap_thread_basic.vi" Type="VI" URL="/&lt;vilib&gt;/addons/zeromq/zmq_zap_thread_basic.vi"/>
 			<Item Name="zmq_zap_verify.vi" Type="VI" URL="/&lt;vilib&gt;/addons/zeromq/zmq_zap_verify.vi"/>
 		</Item>
+		<Item Name="ZMQ GEECS device publisher.vi" Type="VI" URL="../ZMQ GEECS device publisher.vi"/>
 		<Item Name="ZMQ GEECS publisher.vi" Type="VI" URL="../ZMQ GEECS publisher.vi"/>
 		<Item Name="ZMQ GEECS subscriber.vi" Type="VI" URL="../ZMQ GEECS subscriber.vi"/>
 		<Item Name="ZMQ publisher example.vi" Type="VI" URL="../ZMQ publisher example.vi"/>
@@ -79,6 +80,7 @@
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Tick Count (ms)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/time/time.llb/Tick Count (ms)__ogtk.vi"/>
+				<Item Name="Wait (ms)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/time/time.llb/Wait (ms)__ogtk.vi"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
